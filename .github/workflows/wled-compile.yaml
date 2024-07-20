@@ -1,4 +1,4 @@
-ame: WLED compile
+name: WLED compile
 
 on:
     workflow_dispatch:
